@@ -1,6 +1,6 @@
-## 🛒 Amazon Clone (HTML & CSS Only)
+## 🛒 Amazon Clone (HTML CSS & JavaScript Only)
 
-This project is a **frontend-only** replica of the Amazon India website, built entirely using **HTML** and **CSS** without any frameworks or JavaScript.
+This project is a **frontend-only** replica of the Amazon India website, built entirely using **HTML** **CSS** with **JavaScript**.
 It is designed to mimic the look, layout, and styling of Amazon's homepage while focusing on **responsive design** and **clean code structure**.
 
 ### 📌 Features
@@ -13,7 +13,7 @@ It is designed to mimic the look, layout, and styling of Amazon's homepage while
 
 ### 🎯 Purpose
 
-This project was created to **practice HTML & CSS skills** including:
+This project was created to **practice HTML CSS & JavaScript skills** including:
 
 * Flexbox & Grid layout
 * CSS hover effects
